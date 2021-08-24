@@ -1,0 +1,1 @@
+https://newslang.ch/ressources/outils/generateur-theme-enfant-prestashop

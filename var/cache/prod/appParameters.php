@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => 'localhost',
+    'database_port' => '8889',
+    'database_name' => 'auplantain',
+    'database_user' => 'root',
+    'database_password' => 'root',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'bJobjdLGdX04SZvPZd7xyGtFGB4Hi9VAcVaA3aukCZ8LkDYUyjy0IpXIIjxM0oNg',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2021-08-24',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => '7NEKFRLI7gIcvyUCYukEVSc13mRuFdYraSTNdeuWrWWyyIjVx7GdPnyrzBmXrO68',
+    'cookie_iv' => 'YIkpZ3L0E8ZCrGfshhqDH8OV8MckCxNS',
+    'new_cookie_key' => 'def000007a803d960e066ca690793646e8ee85bc1136861a93d1748fb4b9b8d41210a0a1c28ed304ccfba9e223ad1ef8e5bd31c20b6d9bd916a229e3b30f45b547169cbf',
+  ),
+);

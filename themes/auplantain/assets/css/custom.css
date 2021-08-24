@@ -1,0 +1,6 @@
+/* Entrez le CSS personnalisé de votre thème enfant ici */
+
+html #header {
+    background: blue !important;
+    color: #7a7a7a;
+}
